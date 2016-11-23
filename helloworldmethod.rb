@@ -1,7 +1,7 @@
 
 
-def hello 
-    puts "hello world"
+def hello(anything) 
+    puts anything
 end
 
-hello
+hello "Grab me a towel I'm diry dancing"
